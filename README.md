@@ -21,7 +21,6 @@ Happy coding!
 
 ## Top used langs ##
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oLNidfwworld&layout=compact)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=oLNidfwworld&color=blueviolet)
