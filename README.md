@@ -1,10 +1,22 @@
-<!-- ## Hi there 👋
+# Welcome to My GitHub Profile!
 
-<! --
-**oLNidfwworld/oLNidfwworld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! 👋
 
-Here are some ideas to get you started:
+I'm Daniil, a passionate Front-End Developer specializing in Vue.js. I love creating interactive and dynamic user interfaces, and I'm constantly exploring new technologies to enhance my skills. Feel free to check out my projects and get in touch!
 
+Happy coding! 
+
+## Tech & Tools ##
+
+## Top used langs ##
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oLNidfwworld&layout=compact)
+
+
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
+
+
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
