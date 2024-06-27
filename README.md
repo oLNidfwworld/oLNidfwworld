@@ -8,12 +8,15 @@ Happy coding!
 
 ## Tech & Tools ##
 
+![Manjaro](https://img.shields.io/badge/OS-Manjaro-35BF5C?style=for-the-badge&logo=manjaro)
+![MacOS](https://img.shields.io/badge/OS-Manjaro-35BF5C?style=for-the-badge&logo=macos)
+
 ## Top used langs ##
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oLNidfwworld&layout=compact)
 
 
-![](https://komarev.com/ghpvc/?username=oLNidfwworld&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=oLNidfwworld&color=blueviolet)
 
 
 <!--
