@@ -13,7 +13,7 @@ Happy coding!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oLNidfwworld&layout=compact)
 
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=oLNidfwworld&color=blueviolet)
 
 
 <!--
