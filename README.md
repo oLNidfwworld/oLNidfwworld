@@ -17,7 +17,7 @@ Happy coding!
 
 ![back](https://skillicons.dev/icons?theme=dark&i=nuxt,astro)
 
-![Bitrix](https://img.shields.io/badge/Strapi-4945ff?style=for-the-badge&logo=strapi)
+![Bitrix](https://img.shields.io/badge/CMS-Strapi-4945ff?style=for-the-badge&logo=strapi)
 
 ## Top used langs ##
 
