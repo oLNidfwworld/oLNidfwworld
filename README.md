@@ -9,7 +9,15 @@ Happy coding!
 ## Tech & Tools ##
 
 ![Manjaro](https://img.shields.io/badge/OS-Manjaro-35BF5C?style=for-the-badge&logo=manjaro)
-![MacOS](https://img.shields.io/badge/OS-macOS-333333?style=for-the-badge&logo=macos)
+![MacOS](https://img.shields.io/badge/macOS-333333?style=for-the-badge&logo=macos)
+
+![VS_Code](https://img.shields.io/badge/Editor-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+
+![Tech](https://skillicons.dev/icons?theme=dark&i=nodejs,js,ts,vue)
+
+![back](https://skillicons.dev/icons?theme=dark&i=nuxt,astro)
+
+![Bitrix](https://img.shields.io/badge/Strapi-4945ff?style=for-the-badge&logo=strapi)
 
 ## Top used langs ##
 
