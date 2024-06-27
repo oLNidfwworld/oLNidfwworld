@@ -9,7 +9,7 @@ Happy coding!
 ## Tech & Tools ##
 
 ![Manjaro](https://img.shields.io/badge/OS-Manjaro-35BF5C?style=for-the-badge&logo=manjaro)
-![MacOS](https://img.shields.io/badge/OS-Manjaro-35BF5C?style=for-the-badge&logo=macos)
+![MacOS](https://img.shields.io/badge/OS-macOS-35BF5C?style=for-the-badge&logo=macos)
 
 ## Top used langs ##
 
